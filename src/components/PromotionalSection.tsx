@@ -13,13 +13,13 @@ export function PromotionalSection({
   const benefits = [
     {
       icon: <Truck className="w-8 h-8 text-[#00AEEF]" />,
-      title: "Frete Grátis",
-      description: "Em compras acima de R$ 99",
+      title: "Frete",
+      description: "Fixo em R$ 20",
     },
     {
       icon: <CreditCard className="w-8 h-8 text-[#00AEEF]" />,
-      title: "Pagamento Flexível",
-      description: "Cartão, Pix ou parcelado",
+      title: "Pagamento",
+      description: "Somente Pix",
     },
     {
       icon: <Headphones className="w-8 h-8 text-[#00AEEF]" />,
