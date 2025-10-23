@@ -18,7 +18,7 @@ export function Header({ onMenuClick }: HeaderProps) {
   const [lastScrollY, setLastScrollY] = useState(0);
 
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5511999999999", "_blank");
+    window.open("https://wa.me/5511937750190", "_blank");
   };
 
   const filteredProducts = products.filter((p) =>
