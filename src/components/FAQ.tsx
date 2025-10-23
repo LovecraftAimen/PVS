@@ -70,7 +70,9 @@ export function FAQ() {
               Nossa equipe está pronta para ajudar você no WhatsApp
             </p>
             <a
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/5511937750190"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-block bg-white text-[#00AEEF] px-6 py-2 rounded-lg font-semibold hover:bg-gray-100 transition-colors"
             >
               Falar no WhatsApp
